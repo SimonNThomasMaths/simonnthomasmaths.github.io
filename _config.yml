@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Simon N. Thomas"
+title                    : "Simon N. Thomas tes2"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "SimonNThomasMaths/simonnthomasmaths.github.io"
 author:
   # Biographic information
   avatar           : "websiteprofile.jpg"
-  name             : "Simon Thomas"
+  name             : "Simon Thomas test"
   pronouns         : # example: "she/her"  
   bio              : "PhD student"
   location         : "Brisbane"

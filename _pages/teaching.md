@@ -13,3 +13,4 @@ Here are some slides I made while tutoring a course on optimisation theory.
 - [Week 7](https://simonnthomasmaths.github.io/files/w7.pdf)
 - [Week 8](https://simonnthomasmaths.github.io/files/w8.pdf)
 - [Week 9](https://simonnthomasmaths.github.io/files/w9.pdf)
+- [Week 10](https://simonnthomasmaths.github.io/files/w10.pdf)

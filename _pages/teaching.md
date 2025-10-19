@@ -15,3 +15,4 @@ Here are some slides I made while tutoring a course on optimisation theory.
 - [Week 9](https://simonnthomasmaths.github.io/files/w9.pdf)
 - [Week 10](https://simonnthomasmaths.github.io/files/w10.pdf)
 - [Week 11](https://simonnthomasmaths.github.io/files/w11.pdf)
+- [Week 12](https://simonnthomasmaths.github.io/files/w12.pdf)

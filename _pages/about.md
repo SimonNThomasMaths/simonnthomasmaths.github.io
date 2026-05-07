@@ -13,4 +13,4 @@ I am a PhD student at the University of Queensland, where I work on problems in 
 
 You can email me at s.n.thomas@student.uq.edu.au.
 
-Here is my [CV](https://simonnthomasmaths.github.io/files/cv.pdf), last updated in June, 2025.
+Here is my [CV](https://simonnthomasmaths.github.io/files/cv.pdf), last updated in May, 2026.
